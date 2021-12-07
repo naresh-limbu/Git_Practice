@@ -8,3 +8,8 @@ line 7
 line 8
 line 9
 line 10
+<<<<<<< HEAD
+=======
+line 11
+line 12
+>>>>>>> e06320d... line 11 line 12
